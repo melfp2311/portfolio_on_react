@@ -14,7 +14,7 @@ function Skills(){
     </div>
     <div className="row" >
       <div className="col-3"></div>
-      <div className="col-lg-3 col-sm-6" className="text-center" className="mx-auto">
+      <div className="col-lg-3 col-sm-6 text-center mx-auto">
         <ul>
           <li>HTML5</li>
           <li>Vanilla CSS</li>
@@ -24,7 +24,7 @@ function Skills(){
           <li>React.js</li>
         </ul>
       </div>
-      <div className="col-lg-3 col-sm-6" className="text-center" className="mx-auto">
+      <div className="col-lg-3 col-sm-6 text-center mx-auto">
         <ul>
           <li>Node.js</li>
           <li>Express</li>
