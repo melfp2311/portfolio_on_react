@@ -2,7 +2,7 @@ import React from "react";
 import "./styles.css"
 
 
-function HelloYou(){
+function Skills(){
     return (
 <div className="container">
   <div className="row">
@@ -40,4 +40,4 @@ function HelloYou(){
     )
 }
 
-export default HelloYou;
+export default Skills;
